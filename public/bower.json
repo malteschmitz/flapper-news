@@ -1,0 +1,24 @@
+{
+  "name": "mean-thinkster",
+  "authors": [
+    "Malte Schmitz <malte@schmitz-sh.de>"
+  ],
+  "description": "Tutorial from https://thinkster.io/mean-stack-tutorial",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "http://www.mlte.de",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.3",
+    "angular-ui-router": "^0.2.18",
+    "bootstrap": "^3.3.6"
+  }
+}
